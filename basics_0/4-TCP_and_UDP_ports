@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+#Services working
 
 sudo netstat -lntup
