@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
-#Services working
+#!/bin/bash
+# Script to display listening ports with PID/Program name
 
-sudo netstat -lntup
+netstat -tulnp
